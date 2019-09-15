@@ -1,4 +1,6 @@
-# Learn to write a paper
+# Learning Research
+
+## Learn to write a paper
 
 - [How to write papers so that people can read them](https://youtu.be/PM1Atui30qU), Derek Dreyer
 - [How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/), Simon Peyton Jones
