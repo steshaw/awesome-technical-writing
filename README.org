@@ -5,3 +5,7 @@
 - [[https://youtu.be/PM1Atui30qU][How to write papers so that people can read them]], Derek Dreyer
 - [[https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/][How to write a great research paper]], Simon Peyton Jones
 - [[http://www.cs.tufts.edu/~nr/pubs/two-abstract.html][Teach Technical Writing in Two Hours per Week]], Norman Ramsey
+
+** Learn to write articles
+
+- [[https://reasonablypolymorphic.com/blog/writing-technical-posts/][How to Write Technical Posts (so people will read them)]], Sandy Maguire
